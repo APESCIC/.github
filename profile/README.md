@@ -1,34 +1,57 @@
-# Welcome to the APES CIC Development Hub! 🐾🚀
+# Association of Protecting Exotic Species CIC
 
-Hello and welcome to the GitHub page dedicated to supporting the staff at the Association of Protecting Exotic Species CIC in developing online websites, tools, and resources. Our mission is to enhance our digital capabilities to better serve both our local and extended communities by providing a platform that is both professional and engaging.
+**Exotic animal welfare with operational transparency.**
 
-## What We’re Working On 💻
+APES CIC is focused on the welfare, protection, and conservation of exotic species. The organisation works across rescue, rehabilitation, rehoming, education, public guidance, conservation awareness, and practical support for keepers and communities.
 
-- **Websites:** Building and maintaining our online presence to share vital information and resources.
-- **Tools:** Developing tools to support our animal rescue and shelter services.
-- **Resources:** Creating easily accessible and up-to-date documentation and guides.
-- **Community Engagement:** In due course, we will be introducing features for the public to join in and contribute to our projects!
+Our mission is rooted in compassionate, non-judgemental support — combining welfare-first services with plain-language information so people can act quickly when an animal or owner needs help.
 
-## Stay Updated 📣
+---
 
-Follow us on GitHub and keep an eye on this space for updates, news, and new initiatives. We are committed to transparency and collaboration as we expand our digital footprint in support of exotic species protection.
+## What We Do
 
-## Get in Touch 📞
+| Pillar | Description |
+|--------|-------------|
+| 🆘 **Rescue** | Respond to abandonment, unsafe keeping, and urgent welfare needs |
+| 🏥 **Rehabilitate** | Provide species-appropriate care, recovery support, and careful handling |
+| 🏠 **Rehome** | Match animals to informed adopters through responsible checks and guidance |
+| 📚 **Educate** | Share practical welfare knowledge through visits, support routes, and public resources |
 
-For any inquiries related to our online projects, please feel free to contact us at:
-- Email: [info@apes.org.uk](mailto:info@apes.org.uk)
-- Phone: 0300 302 0998
+---
 
-Our main office is located at:  
-Cross House, Unit 7,  
-Sutton Road,  
-St Helens, WA9 3YH
+## Our Online Services
 
-## Thank You 🙏
+### 🌐 [apes.org.uk](https://www.apes.org.uk) — Main Organisation Website
+The primary public-facing site for APES CIC. Covers who we are, our mission, core services, and how to get involved or seek help for an exotic animal.
 
-Thank you for your interest and support. We look forward to building innovative solutions that make a real difference in the care and protection of exotic species.
+### 🚨 [apesshelter.org.uk](https://www.apesshelter.org.uk) — Fast Service Route
+A quick-triage tool that helps people find the right APES service in under a minute. Select the situation, get directed to the correct route — no forms, no waiting.
 
-Follow us for updates and let’s make a positive impact together!
+### 🐾 [apespetcare.org.uk](https://www.apespetcare.org.uk) — APES Pet Care
+Practical first aid support, routine welfare guidance, husbandry advice, and referral triage covering a wide range of species — including domestic pets, rabbits, reptiles, invertebrates, guinea pigs, and ferrets. Designed to help owners make safe next-step decisions quickly and without judgement.
 
----  
-© 2023 Association of Protecting Exotic Species CIC
+### 🗂️ [myapes.me.uk](https://www.myapes.me.uk) — MyAPES Hub
+The public resource and tool hub for APES CIC. Brings together care resources, community spaces, newsletters, video content, service information, and secure account access in one place.
+
+---
+
+## This GitHub Organisation
+
+This space is home to the web development work that powers our online services. Our technical team collaborates here to build, maintain, and improve the digital infrastructure that supports APES CIC's welfare mission.
+
+We are committed to transparency and plan to open selected repositories for public contribution in due course.
+
+---
+
+## Get in Touch
+
+| | |
+|---|---|
+| 📧 General enquiries | [info@apes.org.uk](mailto:info@apes.org.uk) |
+| 💻 Developer / technical | [developer@apes.org.uk](mailto:developer@apes.org.uk) |
+| 📞 Phone | 0300 302 0998 |
+| 📍 Address | Cross House, Unit 7, Sutton Road, St Helens, WA9 3YH |
+
+---
+
+*© Association of Protecting Exotic Species CIC*
