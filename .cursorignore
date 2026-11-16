@@ -1,0 +1,13 @@
+# Secrets and credentials (minimal ignore for a Markdown-only org profile repo)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*secret*
+**/secrets/**
+id_rsa*
+id_ed25519*
+*.p12
+*.pfx
