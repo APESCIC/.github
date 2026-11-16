@@ -2,7 +2,7 @@
 
 Cursor's user rules and skills set how work is done here (branches, issues, pull requests, merge, release, deploy, ship gate, decisions and safety). This file describes this repository and fills the named slots below. If anything here disagrees with them, Cursor's rules win and this file is corrected in the same milestone.
 
-Cursor/agent layout standard: https://github.com/apescic-director/Cursor/blob/bmurphy/cursor-agent-standard-81b0/docs/cursor-agent-standards.md
+Cursor/agent layout standard: https://github.com/apescic-director/Cursor/blob/main/docs/cursor-agent-standards.md
 
 The owner is Bambie Murphy. Write UK English (organisation, behaviour, colour, licence) in docs, issues and pull requests. Never print, paste or commit secrets.
 
@@ -77,4 +77,4 @@ Development is tracked only in GitHub issues, sub-issues and milestones — neve
 
 - Organisation landing copy: [README.md](README.md)
 - GitHub organisation profile: [profile/README.md](profile/README.md)
-- Org Cursor/agent standard: https://github.com/apescic-director/Cursor/blob/bmurphy/cursor-agent-standard-81b0/docs/cursor-agent-standards.md
+- Org Cursor/agent standard: https://github.com/apescic-director/Cursor/blob/main/docs/cursor-agent-standards.md
